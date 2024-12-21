@@ -1,4 +1,5 @@
 Toto je súbor s kompletnou dokumentáciou procesu tvorby projektu NovInit - senzorovej rukavice s mobilnou aplikáciou zameriavajucou sa na preklad posunkového jazyka na textovú a počítačovo syntetizovanú reč darujúceho ľudom so sluchovým a rečovým postihnutím nádej na nový život.
+-----------------------------
 Navigácia v súborovom strome:
 ./NovInit
     ./posunky
@@ -9,7 +10,7 @@ Navigácia v súborovom strome:
                 *** LINK NA .ZIP SÚBOR OBSAHUJÚCI .BLEND PROJEKTY S 3D MODELMI RUKY POSUNKUJÚCEJ ABECEDU ***
         ./posunky-emocie
                 ./emocie
-                    /* OBRÁZKY 3D MODELOV RUKY POSUNKUJÚCEJ EMÓCIE */
+                    *** OBRÁZKY 3D MODELOV RUKY POSUNKUJÚCEJ EMÓCIE ***
                 ./modely
-                    /* LINK NA .ZIP SÚBOR OBSAHUJÚCI .BLEND PROJEKTY S 3D MODELMI RUKY POSUNKUJÚCEJ EMÓCIE
+                    *** LINK NA .ZIP SÚBOR OBSAHUJÚCI .BLEND PROJEKTY S 3D MODELMI RUKY POSUNKUJÚCEJ EMÓCIE ***
     
