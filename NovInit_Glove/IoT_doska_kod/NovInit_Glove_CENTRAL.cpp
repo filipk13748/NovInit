@@ -59,7 +59,7 @@ void loop() {
     
     gyroData += "Sensor " + String(i) + ": ";
     gyroData += "X=" + String(gx) + " Y=" + String(gy) + " Z=" + String(gz);
-    if (i < 4) gyroData += " | ";  // Pridanie oddelovača medzi senzory
+    if (i < 4) gyroData += " | ";  // Pridanie oddeľovača medzi senzory
   }
   
   // Odoslanie gyroskopických dát cez BLE
